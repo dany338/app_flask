@@ -1,0 +1,773 @@
+[
+    {
+        "entidad": "Invemar - CaladerosdePesca", 
+        "name": "CaladerosdePesca", 
+        "type": "wms", 
+        "url": "http://gis.invemar.org.co/arcgis/services/CaladerosdePesca/Base_Caladeros_de_Pesca/MapServer/WMSServer", 
+        "id": "1"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Unidades de an\u00e1lisis", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/unidades_analisis/wms?", 
+        "id": "2"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Demanda H\u00eddrica.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/demanda_hidrica/wms?", 
+        "id": "6"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Calidad de Agua.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/Calidad_Agua/wms?", 
+        "id": "8"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Indicadores H\u00eddricos.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/indicadores_hidricos/wms?", 
+        "id": "9"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Estado Coberturas de la tierra.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/Estado_Coberturas_Tierra/wms?", 
+        "id": "10"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Estado Degradaci\u00f3n de los Suelos.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/Estado_Degradacion_Suelos_Tierras/wms?", 
+        "id": "11"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Uso del Recurso Bosque.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/Uso_Recurso_Bosque/wms?", 
+        "id": "13"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Vulnerabilidad Susceptibilidad Ambiental.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/Vulnerabilidad_Susceptibilidad_Ambiental/wms?", 
+        "id": "14"
+    }, 
+    {
+        "entidad": "Instituto de Hidrolog\u00eda, Meteorolog\u00eda y Estudios Ambientales de Colombia - IDEAM", 
+        "name": "Vulnerabilidad Cambio Clim\u00e1tico.", 
+        "type": "wms", 
+        "url": "http://geoapps.ideam.gov.co:8080/geoserver/Vulnerabilidad_Cambio_Climatico/wms?", 
+        "id": "15"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Mapa de Referencia de Bogot\u00e1", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Mapa_Referencia/Mapa_Referencia/MapServer/WMSServer", 
+        "id": "17"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Mapa de sombras 2014 (Hillshade)", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Imagenes/Hillshade2014/MapServer/WMSServer", 
+        "id": "18"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Cobertura de la Tierra", 
+        "type": "wms", 
+        "url": "http://sig.jbb.gov.co/geoserver/SCientifica.Cobertura/wms", 
+        "id": "19"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Desarrollo Econ\u00f3mico Rural", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Desarrollo_economico_rural/MapServer/WMSServer", 
+        "id": "21"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "% PH Por sector catastral - 2016", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Analisis_Inmobiliario/Porcentaje_PH2016/MapServer/WMSServer", 
+        "id": "22"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Catastro", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Catastro/MapServer/WMSServer", 
+        "id": "23"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Estratificaci\u00f3n", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Estrato_Socioeconomico/MapServer/WMSServer", 
+        "id": "24"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Aspectos Demogr\u00e1ficos", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Aspectos_Demograficos/MapServer/WMSServer", 
+        "id": "25"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Bomberos", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Bomberos/MapServer/WMSServer", 
+        "id": "26"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Juntas de Acci\u00f3n Comunal", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Galeria_Mapas/SalonesComunales/MapServer/WMSServer", 
+        "id": "30"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Espacio P\u00fablico", 
+        "type": "wms", 
+        "url": "http://sigdep.dadep.gov.co:6080/arcgis/services/Indicadores/Espacio_P%C3%BAblico/MapServer/WMSServer", 
+        "id": "32"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Red CADE", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Red_CADE/MapServer/WMSServer", 
+        "id": "33"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Indicadores", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Indicadores/MapServer/WMSServer", 
+        "id": "34"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Mejoramiento de Barrio", 
+        "type": "wms", 
+        "url": "http://190.60.226.98:6080/arcgis/services/DMB/Mejoramiento_de_Barrio/MapServer/WMSServer", 
+        "id": "35"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Mejoramiento de Vivienda", 
+        "type": "wms", 
+        "url": "http://190.60.226.98:6080/arcgis/services/DMV/Mejoramiento_de_Vivienda/MapServer/WMSServer", 
+        "id": "36"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Reasentamiento Humano", 
+        "type": "wms", 
+        "url": "http://190.60.226.98:6080/arcgis/services/REAS/Reasentamiento_Humano/MapServer/WMSServer", 
+        "id": "37"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Ciclov\u00eda", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Ciclovia/MapServer/WMSServer", 
+        "id": "38"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Notar\u00eda", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Notarias/MapServer/WMSServer", 
+        "id": "40"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "C\u00f3digos Postales", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Zona_Postal/MapServer/WMSServer", 
+        "id": "42"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Embajada", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Embajadas/MapServer/WMSServer", 
+        "id": "43"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "\u00c1rea Prioritaria de Intervenci\u00f3n", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Areas_Prioritarias_Intervencion/MapServer/WMSServer", 
+        "id": "44"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Estructura Ecol\u00f3gica Principal", 
+        "type": "wms", 
+        "url": "http://www.secretariadeambiente.gov.co/arcgis/services/MapasVisorGeo/EEP_Dec_190_Geo/MapServer/WMSServer", 
+        "id": "45"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Objetos Geogr\u00e1ficos Tem\u00e1ticos (Turismo)", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Turismo/MapServer/WMSServer", 
+        "id": "46"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Objetos Geogr\u00e1ficos Tem\u00e1ticos (Educaci\u00f3n)", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Infraestructura_Educativa/MapServer/WMSServer", 
+        "id": "47"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Objetos Geogr\u00e1ficos Tem\u00e1ticos (Salud)", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Salud/MapServer/WMSServer", 
+        "id": "48"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Objetos Geogr\u00e1ficos Tem\u00e1ticos (Servicios Sociales)", 
+        "type": "wms", 
+        "url": "http://mapotecaweb.integracionsocial.gov.co:8081/geoserver/ideca/wms", 
+        "id": "49"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Objetos Geogr\u00e1ficos Tem\u00e1ticos (Seguridad)", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Infraestructura_Seguridad/MapServer/WMSServer", 
+        "id": "50"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Objetos Geogr\u00e1ficos Tem\u00e1ticos (Valor de Referencia m\u00b2 Terreno)", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Valor_de_referencia_m2_terreno/MapServer/WMSServer", 
+        "id": "51"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Ortofoto 2014", 
+        "type": "wms", 
+        "url": "http://imagenes.catastrobogota.gov.co/arcgis/services/Ortho2014/MapServer/WMSServer?", 
+        "id": "52"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Sistema Distrital de Parques", 
+        "type": "wms", 
+        "url": "http://serviciosgis.catastrobogota.gov.co/arcgis/services/Portalmapas/Sistema_Parques/MapServer/WMSServer", 
+        "id": "58"
+    }, 
+    {
+        "entidad": "Infraestructura de Datos Espaciales para el Distrito Capital \u2013 IDECA", 
+        "name": "Calidad del Agua Bogot\u00e1", 
+        "type": "wms", 
+        "url": "http://www.secretariadeambiente.gov.co/arcgis/services/MapasVisorGeo/Cal_Agua_WQI_Geo/MapServer/WMSServer", 
+        "id": "59"
+    }, 
+    {
+        "entidad": "Infraestructura de datos espaciales del Municipio de Santiago de Cali - IDESC", 
+        "name": "Servicio Web Geogr\u00e1fico del municipio de Santiago de Cali con Informaci\u00f3n General", 
+        "type": "wms", 
+        "url": "http://idesc.cali.gov.co:8081/geoserver/wms", 
+        "id": "60"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda B\u00e1sica Escala 1:100000 (Cubrimiento Nacional)", 
+        "type": "wms", 
+        "url": "http://geocarto.igac.gov.co/geoservicios/cien_mil/wms", 
+        "id": "61"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda B\u00e1sica Escala 1:500000 (Cubrimiento Nacional)", 
+        "type": "wms", 
+        "url": "http://geocarto.igac.gov.co/geoservicios/quinientos_mil/wms", 
+        "id": "62"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda B\u00e1sica Escala 1:25000 (Cubrimiento Nacional)", 
+        "type": "wms", 
+        "url": "http://geocarto.igac.gov.co/geoservicios/veinticinco_mil/wms", 
+        "id": "63"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda B\u00e1sica Escala 1:2000 (Soacha, Barranquilla)", 
+        "type": "wms", 
+        "url": "http://geocarto.igac.gov.co/geoservicios/dos_mil/wms", 
+        "id": "64"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cubrimientos", 
+        "type": "wms", 
+        "url": "http://geocarto.igac.gov.co/geoservicios/cubrimientos/wms", 
+        "id": "65"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Ortofotomos\u00e1icos", 
+        "type": "wms", 
+        "url": "http://bni.gov.co:8080/geoservicios/ortofotomosaicos/wms", 
+        "id": "66"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT MinAgricultura", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/SIGOT_MinAgricultura/MapServer/WMSServer", 
+        "id": "67"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Institucional", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Institucional_01/MapServer/WMSServer?", 
+        "id": "68"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_03/MapServer/WMSServer?", 
+        "id": "70"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Ambiental 01", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Ambiental_01/MapServer/WMSServer?", 
+        "id": "71"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 01 - Desplazamiento Forzado", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_01/MapServer/WMSServer?", 
+        "id": "72"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Econ\u00f3mico 01 - Producci\u00f3n Petrolera e Hidrocarburos", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Economico_01/MapServer/WMSServer?", 
+        "id": "73"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 04 - Educaci\u00f3n", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_04/MapServer/WMSServer?", 
+        "id": "74"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 06", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_06/MapServer/WMSServer?", 
+        "id": "75"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 08", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_08/MapServer/WMSServer?", 
+        "id": "76"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 09", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_09/MapServer/WMSServer?", 
+        "id": "77"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Ambiental 03", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Ambiental_03/MapServer/WMSServer?", 
+        "id": "78"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 11", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_11/MapServer/WMSServer?", 
+        "id": "79"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 07", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_07/MapServer/WMSServer?", 
+        "id": "80"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 10", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_10/MapServer/WMSServer?", 
+        "id": "81"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 05", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_05/MapServer/WMSServer?", 
+        "id": "82"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "SIGOT Social 02", 
+        "type": "wms", 
+        "url": "http://sigotnal.igac.gov.co/arcgis/services/WMS/Social_02/MapServer/WMSServer?", 
+        "id": "83"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Geopedolog\u00eda", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSGeopedologia?", 
+        "id": "84"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Corine", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSCorine?", 
+        "id": "85"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Corporaciones Autonomas Regionales", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/car?", 
+        "id": "86"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Agrolog\u00eda", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSAgrologia?", 
+        "id": "87"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Suelos Atl\u00e1ntico", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSSuelosatlantico?", 
+        "id": "88"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Analfabetismo", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSAnalfabetismo?", 
+        "id": "89"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Geolog\u00eda", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSGeologia?", 
+        "id": "90"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Geomorfolog\u00eda", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSGeomorfologia?", 
+        "id": "91"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Jurisdicci\u00f3n", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSJurisdiccion?", 
+        "id": "92"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Recurso Educaci\u00f3n", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSRecursoeducacion?", 
+        "id": "93"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Salud Afiliaci\u00f3n", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSSaludafiliacion?", 
+        "id": "94"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Vocaci\u00f3n del Suelo", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSVocacion?", 
+        "id": "95"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Mosaico LandSat", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSLandsat?", 
+        "id": "96"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Mapa Catastral", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSMapacatastral", 
+        "id": "97"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "L\u00edneas de Vuelo", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/WMSLineasvuelo", 
+        "id": "98"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda b\u00e1sica IGAC 2100K", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/IGAC2100k", 
+        "id": "99"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda B\u00e1sica IGAC 500K", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/IGACwms?", 
+        "id": "100"
+    }, 
+    {
+        "entidad": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi - IGAC", 
+        "name": "Cartograf\u00eda B\u00e1sica IGAC 100K", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/IGAC100k", 
+        "id": "101"
+    }, 
+    {
+        "entidad": "Unidad de planeaci\u00f3n minero energ\u00e9tica - UPME", 
+        "name": "Producci\u00f3n de Minerales (Carb\u00f3n, Platino, Plata y Oro)", 
+        "type": "wms", 
+        "url": "http://arcgis.simec.gov.co:6080/arcgis/services/UPME_MI/UPME_MI_Produccion_Minerales/MapServer/WMSServer", 
+        "id": "102"
+    }, 
+    {
+        "entidad": "Unidad de planeaci\u00f3n minero energ\u00e9tica - UPME", 
+        "name": "Potencial Hidroenerg\u00e9tico", 
+        "type": "wms", 
+        "url": "http://arcgis.simec.gov.co:6080/arcgis/services/UPME_PE/UPME_PE_POTENCIAL_HIDROENERGETICO/MapServer/WMSServer", 
+        "id": "103"
+    }, 
+    {
+        "entidad": "Unidad de planeaci\u00f3n minero energ\u00e9tica - UPME", 
+        "name": "Potencial Energ\u00eda Solar 2005", 
+        "type": "wms", 
+        "url": "http://arcgis.simec.gov.co:6080/arcgis/services/UPME_PE/UPME_PE_Energ\u00eda_Solar/MapServer/WMSServer", 
+        "id": "104"
+    }, 
+    {
+        "entidad": "Unidad de planeaci\u00f3n minero energ\u00e9tica - UPME", 
+        "name": "Atlas de Biomasa", 
+        "type": "wms", 
+        "url": "http://arcgis.simec.gov.co:6080/arcgis/services/UPME_PE/UPME_PE_ATLAS_BIOMASA/MapServer/WMSServer", 
+        "id": "108"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Mapa Geol\u00f3gico de Colombia", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Mapa_Geologico_Colombia/Mapa_Geologico_Colombia/MapServer/WmsServer", 
+        "id": "113"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Geof\u00ecsica", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Geofisica/Geofisica_2014/MapServer/WMSServer", 
+        "id": "114"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Mapa Inventario Muestra Litoteca", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Mapa_Inventario_Muestra_Litoteca/Mapa_Inventario_Muestra_Litoteca/MapServer/WMSServer", 
+        "id": "115"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Mapa Metalog\u00e9nico Colombia", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Mapa_Metalogenico_Colombia_2002/Mapa_Metalogenico_Colombia_2002/MapServer/WmsServer?", 
+        "id": "116"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Mapa Potencial Carbon\u00edfero de Colombia", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Mapa_Potencial_Carbonifero_Colombia/Mapa_Potencial_Carbonifero_Colombia/MapServer/WmsServer?", 
+        "id": "117"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Mapa de Intensidades M\u00e1ximas Observadas", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Mapa_Intensidad_Maxima_Observada_Colombia/Mapa_Intensidades_Maximas_Colombia/MapServer/WMSServer", 
+        "id": "118"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Metadato Geogr\u00e1fico SGC", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/METG/METADATO/MapServer/WMSServer", 
+        "id": "119"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Reporte Geol\u00f3gico Termales", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/MTER/Reporte_Geologico_Termales/MapServer/WmsServer?", 
+        "id": "120"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Diferenciaci\u00f3n Rocas Sedimentareas y Dep\u00f3sitos", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/PEXAS/PEXAS_Diferenciacion_Rocas_Sedimentarias_y_Depositos/MapServer/WmsServer?", 
+        "id": "121"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Zonas de exploraci\u00f3n criterio hidrogeol\u00f3gico", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/PEXAS/PEXAS_Zonas_Exploracion_Critero_Hidrogeologico/MapServer/WmsServer?", 
+        "id": "122"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Zonas de explotaci\u00f3n criterio demanda", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/PEXAS/PEXAS_Zonas_Explotacion_Criterio_Demanda/MapServer/WmsServer?", 
+        "id": "123"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Estado de la cartograf\u00eda Geol\u00f3gica", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Estado_Cartografia_Geologica/Estado_Catografia_Geologica/MapServer/WMSServer", 
+        "id": "124"
+    }, 
+    {
+        "entidad": "Servicio Geol\u00f3gico Colombiano - SGC", 
+        "name": "Geomorfodin\u00e1mica Costera", 
+        "type": "wms", 
+        "url": "http://srvags.sgc.gov.co/arcgis/services/Geomorfodinamica/Geomorfodinamica/MapServer/WmsServer?", 
+        "id": "125"
+    }, 
+    {
+        "entidad": "CORPOMOJANA", 
+        "name": "Mojana", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/mojana?", 
+        "id": "127"
+    }, 
+    {
+        "entidad": "Departamento Administrativo Nacional de Estad\u00edstica - DANE", 
+        "name": "Centros poblados DANE", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/dane?", 
+        "id": "128"
+    }, 
+    {
+        "entidad": "Instituto Alexander Von Humboldt - IAvH", 
+        "name": "Delimitaci\u00f3n de paramos y humedales Fondo Adaptaci\u00f3n", 
+        "type": "wms", 
+        "url": "http://geoservicios.humboldt.org.co/geoserver/Proyecto_fondo_adaptacion/wms", 
+        "id": "129"
+    }, 
+    {
+        "entidad": "Instituto Alexander Von Humboldt - IAvH", 
+        "name": "Capas hist\u00f3ricas del IAVH", 
+        "type": "wms", 
+        "url": "http://geoservicios.humboldt.org.co/geoserver/Historicos/wms", 
+        "id": "130"
+    }, 
+    {
+        "entidad": "Instituto Alexander Von Humboldt - IAvH", 
+        "name": "Coberturas de la tierra en las zonas Arauca y Casanare, piedemonte y sabana 1:25000", 
+        "type": "wms", 
+        "url": "http://geoservicios.humboldt.org.co/geoserver/Proyecto_oleoducto_bicentenario/wms", 
+        "id": "131"
+    }, 
+    {
+        "entidad": "Instituto Alexander Von Humboldt - IAvH", 
+        "name": "\u00c1reas prioritarias para la conservaci\u00f3n de la biodiversidad", 
+        "type": "wms", 
+        "url": "http://geoservicios.humboldt.org.co/geoserver/Proyecto_PACBAO_Ecopetrol/wms", 
+        "id": "132"
+    }, 
+    {
+        "entidad": "Instituto Nacional de V\u00edas - INVIAS", 
+        "name": "V\u00edas de Colombia", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/invias?", 
+        "id": "140"
+    }, 
+    {
+        "entidad": "Ministerio de Educaci\u00f3n", 
+        "name": "Educaci\u00f3n", 
+        "type": "wms", 
+        "url": "http://sigeo.mineducacion.gov.co/geoserver/wms?SERVICE=WMS&", 
+        "id": "141"
+    }, 
+    
+    {
+        "entidad": "Unidad administrativa especial de parques naturales - UAEPNN", 
+        "name": "SINAP WMS", 
+        "type": "wms", 
+        "url": "http://mapas.parquesnacionales.gov.co/arcgis/services/IGAC/SINAP/MapServer/WMSServer", 
+        "id": "145"
+    }, 
+    {
+        "entidad": "Unidad administrativa especial de parques naturales - UAEPNN", 
+        "name": "Parques Nacionales Naturales", 
+        "type": "wms", 
+        "url": "http://geoservice.igac.gov.co/pnn?", 
+        "id": "150"
+    }, 
+    {
+        "url": "http://geoservice.igac.gov.co/dgr?", 
+        "name": "Aportes En El Marco De La Emergencia Invernal", 
+        "entidad": "Unidad Nacional Para La Gesti\u00f3n Del Riesgo De Desastres -NGRD", 
+        "type": "wms",
+        "id": "151"
+    }
+]

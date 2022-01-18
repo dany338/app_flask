@@ -1,0 +1,1933 @@
+[
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "0", 
+    "name": "EAO_JAGUEY PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/0", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "156"
+  },
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "1", 
+    "name": "ECC_REFINERIAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/1", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "155"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "2", 
+    "name": "ECC_SUBESTACIONES ISA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/2", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "154"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "3", 
+    "name": "ECC_TORRES ISA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/3", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "153"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "4", 
+    "name": "ECC_CENTROS POBLADOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/4", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "152"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "5", 
+    "name": "ECC_CIUDADES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/5", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "151"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "6", 
+    "name": "ECC_CIUDADES 1M", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/6", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "150"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "7", 
+    "name": "ECC_CIUDADES 250K", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/7", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "149"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "8", 
+    "name": "ECC_CIUDADES 50K", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/8", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "148"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "9", 
+    "name": "ECC_CIUDADES GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/9", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "147"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "10", 
+    "name": "ECC_CIUDADES POP", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/10", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "146"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "11", 
+    "name": "ECC_CIUDADES POP 250K", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/11", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "145"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "12", 
+    "name": "ECC_LUGARES POBLADOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/12", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "144"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "13", 
+    "name": "ECC_CONSTRUCCI\u00d3N PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/13", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "143"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "14", 
+    "name": "ECC_MINA PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/14", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "142"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "15", 
+    "name": "ECC_ADMIN PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/15", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "141"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "16", 
+    "name": "ECC_ARCHIVO LUGARES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/16", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "140"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "17", 
+    "name": "ECC_GAZETTEER", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/17", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "139"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "18", 
+    "name": "ECC_GAZETTEER AEROPUERTOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/18", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "138"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "19", 
+    "name": "ECC_GAZETTEER ENT COSTERAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/19", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "137"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "20", 
+    "name": "ECC_GAZETTEER ENT INSULARES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/20", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "136"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "21", 
+    "name": "ECC_GAZETTEER ENT OCE\u00c1NICAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/21", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "135"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "22", 
+    "name": "ECC_GAZETTEER ENT TERRESTRES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/22", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "134"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "23", 
+    "name": "ECC_GAZETTEER LUG POBLADOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/23", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "133"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "24", 
+    "name": "ECC_PUENTE PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/24", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "132"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "25", 
+    "name": "ECC_SIGOC PEAJE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/25", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "131"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "26", 
+    "name": "ECC_TORRE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/26", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "130"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "27", 
+    "name": "ECC_HITO L\u00cdMITE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/27", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "129"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "28", 
+    "name": "ECC_BASCULAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/28", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "128"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "29", 
+    "name": "ECC_BIFURCACIONES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/29", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "127"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "30", 
+    "name": "ECC_CENTROS POBLADOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/30", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "126"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "31", 
+    "name": "ECC_CRUCE V\u00cdAS FERREAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/31", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "125"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "32", 
+    "name": "ECC_PEAJES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/32", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "124"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "33", 
+    "name": "ECC_TEL\u00c9FONOS EMERGENCIA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/33", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "123"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "34", 
+    "name": "ECC_AEROPUERTOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/34", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "122"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "35", 
+    "name": "ECC_BANCOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/35", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "121"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "36", 
+    "name": "ECC_BARES DISCOTECAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/36", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "120"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "37", 
+    "name": "ECC_CAI", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/37", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "119"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "38", 
+    "name": "ECC_CAJEROS AUTOM\u00c1TICOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/38", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "118"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "39", 
+    "name": "ECC_CENTROS ATENCI\u00d3N", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/39", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "117"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "40", 
+    "name": "ECC_CENTROS COMERCIALES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/40", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "116"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "41", 
+    "name": "ECC_CENTROS CULTURA RELIGIOSA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/41", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "115"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "42", 
+    "name": "ECC_CINES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/42", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "114"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "43", 
+    "name": "ECC_CLINICAS HOSPITALES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/43", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "113"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "44", 
+    "name": "ECC_DROGUER\u00cdAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/44", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "112"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "45", 
+    "name": "ECC_EMBAJADAS CONSULADOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/45", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "111"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "46", 
+    "name": "ECC_ESCUELAS COLEGIOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/46", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "110"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "47", 
+    "name": "ECC_ESTACIONES BOMBEROS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/47", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "109"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "48", 
+    "name": "ECC_ESTACIONES POLIC\u00cdA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/48", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "108"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "49", 
+    "name": "ECC_ESTACIONES SERVICIOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/49", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "107"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "50", 
+    "name": "ECC_HOTELES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/50", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "106"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "51", 
+    "name": "ECC_MOTELES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/51", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "105"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "52", 
+    "name": "ECC_MUSEOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/52", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "104"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "53", 
+    "name": "ECC_NOTAR\u00cdAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/53", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "103"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "54", 
+    "name": "ECC_PARQUEADEROS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/54", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "102"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "55", 
+    "name": "ECC_RESTAURANTES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/55", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "101"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "56", 
+    "name": "ECC_SUPERMERCADOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/56", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "100"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "57", 
+    "name": "ECC_TEATROS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/57", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "99"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "58", 
+    "name": "ECC_TERMINALES TRANSPORTE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/58", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "98"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "59", 
+    "name": "ECC_UNIVERSIDADES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/59", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "97"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "60", 
+    "name": "ECC_AEROPUERTO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/60", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "96"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "61", 
+    "name": "ECC_AEROPUERTO PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/61", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "95"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "62", 
+    "name": "ECC_AEROPURERTOS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/62", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "94"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "63", 
+    "name": "ECC_ESTACIONES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/63", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "93"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "64", 
+    "name": "ECC_PUERTO PT", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/64", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "92"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "65", 
+    "name": "ECC_PUERTOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/65", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "91"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "66", 
+    "name": "ECC_COST INSULAR", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/66", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "90"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "67", 
+    "name": "ECC_COST INSULAR PUNTO MENOR", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/67", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "89"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "68", 
+    "name": "ECC_BASES FIJAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/68", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "88"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "69", 
+    "name": "EAO_CANAL SENCILLO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/69", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "87"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "70", 
+    "name": "EAO_CATARATA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/70", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "86"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "71", 
+    "name": "EAO_DRENAJE SENCILLO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/71", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "85"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "72", 
+    "name": "EAO_HIDROLINEAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/72", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "84"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "73", 
+    "name": "EAO_MADREVIEJA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/73", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "83"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "74", 
+    "name": "EAO_RAUDAL R\u00c1PIDO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/74", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "82"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "75", 
+    "name": "EAO_R\u00cdOS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/75", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "81"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "76", 
+    "name": "EAO_CURVA NIVEL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/76", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "80"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "77", 
+    "name": "ECC_GASODUCTOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/77", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "79"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "78", 
+    "name": "ECC_POLIDUCTOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/78", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "78"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "79", 
+    "name": "ECC_CONTINENTES LN", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/79", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "77"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "80", 
+    "name": "ECC_PAIS GLOBAL LN", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/80", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "76"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "81", 
+    "name": "ECC_REGI\u00d3N LN", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/81", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "75"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "82", 
+    "name": "ECC_ZEE GLOBAL LN", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/82", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "74"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "83", 
+    "name": "ECC_HIDROGRAF\u00cdA REG", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/83", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "73"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "84", 
+    "name": "ECC_PUENTE LN", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/84", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "72"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "85", 
+    "name": "ECC_RED ALTA TENSI\u00d3N", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/85", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "71"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "86", 
+    "name": "ECC_TUBER\u00cdA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/86", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "70"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "87", 
+    "name": "ECC_TUNEL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/87", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "69"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "88", 
+    "name": "ECC_LIM MAR\u00cdTIMOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/88", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "68"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "89", 
+    "name": "ECC_LAT LONG 10D", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/89", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "67"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "90", 
+    "name": "ECC_LAT LONG 20D", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/90", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "66"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "91", 
+    "name": "ECC_LAT LONG 30D", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/91", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "65"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "92", 
+    "name": "ECC_L\u00cdNEAS GEORREFERENCIA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/92", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "64"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "93", 
+    "name": "ECC_PISTA ATERRIZAJE LN", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/93", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "63"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "94", 
+    "name": "ECC_V\u00cdA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/94", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "62"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "95", 
+    "name": "ECC_V\u00cdA FERREA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/95", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "61"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "96", 
+    "name": "ECC_V\u00cdAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/96", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "60"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "97", 
+    "name": "ECC_V\u00cdAS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/97", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "59"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "98", 
+    "name": "ECC_V\u00cdAS FERREAS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/98", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "58"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "99", 
+    "name": "ECC_V\u00cdAS PRINCIPALES GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/99", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "57"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "100", 
+    "name": "EAO_BOSQUE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/100", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "56"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "101", 
+    "name": "EAO_BANCO ARENA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/101", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "55"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "102", 
+    "name": "EAO_CANAL DOBLE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/102", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "54"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "103", 
+    "name": "EAO_CI\u00c9NAGA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/103", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "53"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "104", 
+    "name": "EAO_CUERPOS AGUA REG", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/104", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "52"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "105", 
+    "name": "EAO_DRENAJE DOBLE (R\u00cdOS)", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/105", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "51"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "106", 
+    "name": "EAO_EMBALSE", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/106", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "50"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "107", 
+    "name": "EAO_HUMEDAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/107", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "49"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "108", 
+    "name": "EAO_ISLA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/108", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "48"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "109", 
+    "name": "EAO_JAGUEY R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/109", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "47"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "110", 
+    "name": "EAO_LAGUNA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/110", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "46"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "111", 
+    "name": "EAO_LAGOS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/111", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "45"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "112", 
+    "name": "EAO_MADRE VIEJA R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/112", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "44"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "113", 
+    "name": "EAO_MANGLAR", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/113", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "43"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "114", 
+    "name": "EAO_MORICHAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/114", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "42"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "115", 
+    "name": "EAO_PANTANO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/115", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "41"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "116", 
+    "name": "EAO_ECOREGIONES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/116", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "40"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "117", 
+    "name": "EAO_RESERVAS NATURALES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/117", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "39"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "118", 
+    "name": "ECC_T\u00cdTULOS MINEROS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/118", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "38"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "119", 
+    "name": "ECC_\u00c1REAS URBANAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/119", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "37"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "120", 
+    "name": "ECC_BARRIOS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/120", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "36"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "121", 
+    "name": "ECC_CONT GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/121", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "35"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "122", 
+    "name": "ECC_ESTRATIFICACI\u00d3N", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/122", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "34"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "123", 
+    "name": "ECC_LOCALIDADES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/123", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "33"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "124", 
+    "name": "ECC_PA\u00cdS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/124", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "32"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "125", 
+    "name": "ECC_PA\u00cdS GLOBAL2", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/125", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "31"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "126", 
+    "name": "ECC_PARQUES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/126", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "30"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "127", 
+    "name": "ECC_REGI\u00d3N GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/127", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "29"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "128", 
+    "name": "ECC_CONSTRUCCI\u00d3N R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/128", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "28"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "129", 
+    "name": "ECC_MINA R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/129", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "27"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "130", 
+    "name": "ECC_PARAMENTO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/130", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "26"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "131", 
+    "name": "ECC_ADMIN GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/131", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "25"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "132", 
+    "name": "ECC_ADMIN R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/132", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "24"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "133", 
+    "name": "ECC_AGUAS ARCHIPELAGICAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/133", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "23"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "134", 
+    "name": "ECC_AGUAS INTERIORES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/134", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "22"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "135", 
+    "name": "ECC_CORREGIMIENTO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/135", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "21"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "136", 
+    "name": "ECC_DIVISI\u00d3N POL\u00cdTICA REG", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/136", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "20"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "137", 
+    "name": "ECC_DPTO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/137", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "19"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "138", 
+    "name": "ECC_EEZ 12NM", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/138", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "18"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "139", 
+    "name": "ECC_EEZ 24NM", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/139", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "17"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "140", 
+    "name": "ECC_AGUAS INTERIORES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/140", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "16"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "141", 
+    "name": "ECC_L\u00cdMITE PA\u00cdS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/141", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "15"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "142", 
+    "name": "ECC_MAR TERRITORIAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/142", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "14"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "143", 
+    "name": "ECC_MPIO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/143", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "13"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "144", 
+    "name": "ECC_MPIO GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/144", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "12"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "145", 
+    "name": "ECC_PAISES REG", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/145", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "11"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "146", 
+    "name": "ECC_REG COM\u00daN JAMAICA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/146", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer",
+    "layer":  "10"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "147", 
+    "name": "ECC_ZEE GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/147", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "9"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "148", 
+    "name": "ECC_ZONA CONTIGUA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/148", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "8"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "149", 
+    "name": "ECC_ZONAS MAR\u00cdTIMAS GLOBAL", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/149", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "7"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "150", 
+    "name": "ECC_REG COM\u00daN JAMAICA2", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/150", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "6"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "151", 
+    "name": "ECC_ZONAS MAR\u00cdTIMAS DIMAR", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/151", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "5"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "152", 
+    "name": "ECC_AEROPUERTO R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/152", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "4"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "153", 
+    "name": "ECC_PISTA ATERRIZAJE R", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/153", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "3"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "154", 
+    "name": "ECC_JUR FNC", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/154", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "2"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "155", 
+    "name": "ECC_COMUNIDADES NEGRAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/155", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "1"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "156", 
+    "name": "ECC_RESGUARDO INDIGENA", 
+    "type": "WMSArmada", 
+    "url_feature": "/https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/156", 
+    "url_legend": "", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/services/armada/capas_base/MapServer/WMSServer", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "157", 
+    "name": "AE_SIMCI 2014", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=2", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/MapServer/WMSServer?", 
+    "layer": "2"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "158", 
+    "name": "AE_SIMCI 2015", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/FeatureServer/1", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=1", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/MapServer/WMSServer?", 
+    "layer": "1"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "159", 
+    "name": "AE_SIMCI 2016", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/FeatureServer/2", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=0", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/SIMCI/MapServer/WMSServer?", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "160", 
+    "name": "Comisi\u00f3n Mixta Colo_Vene 1930_31", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=15", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?",
+    "layer":  "15"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "161", 
+    "name": "Col_Ven Sector Castilletes 1943", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/1", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=14", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?",
+    "layer":  "14"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "162", 
+    "name": "Comision Mixta Col_Ven 1932", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/2", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=13", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?",
+    "layer":  "13"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "163", 
+    "name": "Confluencia R\u00edo de Oro Catatumbo", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/3", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=12", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?",
+    "layer":  "12"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "164", 
+    "name": "Col_Ven Catatumbo Zulia", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/4", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=11", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?",
+    "layer":  "11"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "165", 
+    "name": "Catatumbo 1931", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/5", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=10", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?",
+    "layer":  "10"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "166", 
+    "name": "Mapa Fronterizo Tachira 1901", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/6", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=9", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "9"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "167", 
+    "name": "Regi\u00f3n Fronteriza San Faustino", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/7", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=8", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "8"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "168", 
+    "name": "Plan Situaci\u00f3n L\u00ednea Col_Ven 1923", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/8", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=7", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "7"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "169", 
+    "name": "Plan Situaci\u00f3n L\u00edea Fronteriza Col_Ven 1923", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/9", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=6", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "6"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "170", 
+    "name": "Frontera Col_Ven Sector Alto Arauca Orinoco", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/10", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=5", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "5"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "171", 
+    "name": "Col_Ven Alto Arauca", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/11", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=4", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "4"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "172", 
+    "name": "Col_Ven Alto Aruaca", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/12", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=3", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "3"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "173", 
+    "name": "Frontera Col_Ven L\u00ednea Arauca Meta", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/13", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=2", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "2"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "174", 
+    "name": "Mapa Col_Ven Sector Cocuy", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/14", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=1", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "1"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "175", 
+    "name": "Atapabo 1900", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/FeatureServer/15", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=0", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Feature/MapServer/WMSServer?", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "176", 
+    "name": "Prueba", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Raster/MapServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Raster/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=0", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_de_Limites_Raster/MapServer/WMSServer?", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "177", 
+    "name": "CAN_Confluencia R\u00edo de Oro Catatumbo", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=8", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "8"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "178", 
+    "name": "CAN_Confluencia R\u00edodeoro Catatumbo", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/1", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=7", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "7"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "179", 
+    "name": "CAN_Col_Ven R\u00edo Vichada Guaviare 1931", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/2", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=6", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "6"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "180", 
+    "name": "CAN_Col_Ven R\u00edo Arauca", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/3", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=5", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "5"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "181", 
+    "name": "CAN_Col_Ven Alto Arauca", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/4", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=4", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "4"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "182", 
+    "name": "CAN_Col_Ven Sector Castilletes 1943", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/5", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=3", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "3"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "183", 
+    "name": "CAN_Catatumbo 1931", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/6", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=2", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "2"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "184", 
+    "name": "CAN_Atabapo 1900", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/7", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=1", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "1"
+  }, 
+  {
+    "group": "CANCILLER\u00cdA", 
+    "id": "185", 
+    "name": "CAN_Col_Ven Alto Aruaca", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/FeatureServer/8", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=0", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Arreglo_Fronterizo/MapServer/WMSServer?", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "186", 
+    "name": "AE_IM\u00c1GENES VERTICALES", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/Imagenes_Verticales/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/Imagenes_Verticales/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=0", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/Imagenes_Verticales/MapServer/WMSServer?", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "187", 
+    "name": "AE_COBERTURA IM\u00c1GENES OBLICUAS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/ImagenesOblicuas/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/ImagenesOblicuas/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=0", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/ImagenesOblicuas/MapServer/WMSServer?", 
+    "layer": "0"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "188", 
+    "name": "AE_LD PAC\u00cdFICO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/FeatureServer/2", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=2", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?", 
+    "layer": "2"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "189", 
+    "name": "AE_LD RINFLUS", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=4", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?", 
+    "layer": "4"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "190", 
+    "name": "AE_LD RINFLUO", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/FeatureServer/1", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=3", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?", 
+    "layer": "3"
+  }, 
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "191", 
+    "name": "AE_LD RINCA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/FeatureServer/3", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=1", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/LD/MapServer/WMSServer?", 
+    "layer": "1"
+  },
+  {
+    "group": "CAPAS BASE PICC", 
+    "id": "192", 
+    "name": "PRUEBA", 
+    "type": "WMSArmada", 
+    "url_feature": "https://cscfjina.cfjcs.net/server/rest/services/armada/PNNC/FeatureServer/0", 
+    "url_legend": "https://cscfjina.cfjcs.net/server/rest/services/armada/PNNC/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=1", 
+    "url_wms": "https://cscfjina.cfjcs.net/server/rest/services/armada/PNNC/MapServer/WMSServer?", 
+    "layer": "0"
+  }
+
+]

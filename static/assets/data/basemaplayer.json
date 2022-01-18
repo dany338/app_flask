@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Armada Base Map",
+        "url": "https://arcserver.cfjcs.net/arcgis/services/armada/Mapa_Base_WMS/MapServer/WMSServer/tile/{z}/{y}/{x}",
+        "type": "Armada",
+        "maxZoom": 13
+    },
+    {
+    "name": "OpenStreetMap",
+    "url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "type": "OpenStreetMap",
+    "attribution": "&copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>",
+    "maxZoom": 19,
+    "minZoom": 3
+    },
+    {
+    "name": "Esri Calles",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "minZoom": 3,
+    "attribution": "Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012"
+    },
+    {
+    "name": "Esri DeLorme",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "attribution": "Tiles &copy; Esri &mdash; Copyright: &copy;2012 DeLorme",
+    "maxZoom": 12,
+    "minZoom": 3
+    },
+    {
+    "name": "Esri TopoMap Mundial",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "maxZoom": 19,
+    "minZoom": 3,
+    "attribution": "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community"
+    },
+    {
+    "name": "Esri Imágenes",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "maxZoom": 17,
+    "minZoom": 3,
+    "attribution": "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community"
+    },
+    {
+    "name": "Esri Terreno",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "attribution": "Tiles &copy; Esri &mdash; Source: USGS, Esri, TANA, DeLorme, and NPS",
+    "maxZoom": 9,
+    "minZoom": 3
+    },
+    {
+    "name": "Esri Físico",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "attribution": "Tiles &copy; Esri &mdash; Source: US National Park Service",
+    "maxZoom": 7,
+    "minZoom": 3
+    },
+    {
+    "name": "Esri Oceánico",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Ocean_Basemap/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "attribution": "Tiles &copy; Esri &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri",
+    "maxZoom": 10,
+    "minZoom": 3
+    },
+    {
+    "name": "Esri Geográfico",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "attribution": "Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC",
+    "maxZoom": 12,
+    "minZoom": 3
+    },
+    {
+    "name": "Esri Gris",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    "type": "Esri",
+    "attribution": "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ",
+    "maxZoom": 16,
+    "minZoom": 3
+    },
+    {
+    "name": "CartoDB Positron",
+    "url": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    "type": "CartoDB",
+    "attribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> &copy; <a href=\"https://cartodb.com/attributions\">CartoDB</a>",
+    "maxZoom": 19,
+    "minZoom": 3,
+    "subdomains": "abcd"
+    },
+    {
+    "name": "Nasa Noche",
+    "url": "https://map1.vis.earthdata.nasa.gov/wmts-webmerc/VIIRS_CityLights_2012/default/{time}/{tilematrixset}{maxZoom}/{z}/{y}/{x}.{format}",
+    "type": "NASA",
+    "attribution": "Imagery provided by services from the Global Imagery Browse Services (GIBS), operated by the NASA/GSFC/Earth Science Data and Information System (<a href=\"https://earthdata.nasa.gov\">ESDIS</a>) with funding provided by NASA/HQ.",
+    "maxZoom": 8,
+    "minZoom": 1,
+    "format": "jpg",
+    "ext": "jpg",
+    "time": "",
+    "src": "images/hubway/raster-night-satellite.png",
+    "tilematrixset": "GoogleMapsCompatible_Level"
+    },
+    {
+    "name": "google Calles",
+    "url": "https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}",
+    "type": "Google",
+    "MapTypeId":"roadmap",
+    "maxZoom": 20,
+    "minZoom": 3,
+    "subdomains": "['mt0','mt1','mt2','mt3']"
+    },
+    {
+    "name": "google Híbrido",
+    "url": "https://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}",
+    "type": "Google",
+    "MapTypeId":"hybrid",
+    "minZoom": 3,
+    "maxZoom": 20,
+    "src": "images/hubway/google-hybrid.png",
+    "subdomains": "['mt0','mt1','mt2','mt3']"
+    },
+    {
+    "name": "google Satélite",
+    "url": "https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "type": "Google",
+    "MapTypeId":"satellite",
+    "maxZoom": 20,
+    "minZoom": 3,
+    "subdomains": "['mt0','mt1','mt2','mt3']"
+    },
+    {
+    "name": "google Terreno",
+    "url": "https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "type": "Google",
+    "MapTypeId":"terrain",
+    "maxZoom": 20,
+    "minZoom": 3,
+    "subdomains": "['mt0','mt1','mt2','mt3']"
+    },
+    {
+    "id": "tiles-stamen-toner-lite",
+    "name": "Stamen Toner Lite",
+    "url": "https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png",
+    "attribution": "Map tiles by <a href='https://stamen.com'>Stamen Design</a>, under <a href='https://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a>. Data by <a href='https://openstreetmap.org'>OpenStreetMap</a>, under <a href='https://www.openstreetmap.org/copyright'>ODbL</a>.",
+    "subdomains": "abcd",
+    "minZoom": 3,
+    "maxZoom": 17,
+    "ext": "png",
+    "src": "images/hubway/stamen-toner-lite.png",
+    "opacity": 0.5
+    },
+    {
+    "id": "tiles-thunderforest-transport",
+    "name": "Thunderforest Transporte",
+    "url": "https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png",
+    "attribution": "&copy; <a href='https://www.thunderforest.com/transport/'>Thunderforest Maps</a>, &copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>",
+    "maxZoom": 18,
+    "minZoom": 3,
+    "src": "images/hubway/thunderforest-transport.png",
+    "opacity": 0.6
+    }
+]

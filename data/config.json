@@ -1,0 +1,9 @@
+{
+  "PASSWORD": "540b8fbe2ac37318fa23e551e8eba1db",
+  "BASEMAP": "Esri Calles",
+  "PROXY": {
+    "status": false,
+    "host": "https://proxi.cfjcs.net"
+  },
+  "ARCGISHOST": "https://cscfjina.cfjcs.net"
+}

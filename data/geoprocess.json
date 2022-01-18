@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "submitUrl": "https://cscfjina.cfjcs.net/server/rest/services/cerebro_gp/BufferPolygon/GPServer/BufferPolygon/submitJob",
+        "schedule": "20:00",
+        "status": true,
+        "params" : {
+            "Input_Features": "{url: 'https://cscfjina.cfjcs.net/server/rest/services/armada/capas_base/FeatureServer/0'}",
+            "Distance": "{ distance: 30, units : 'esriMeters' }",
+            "f": "pjson"
+        }
+    }
+]
